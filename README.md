@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Sachin Ghanteppagol! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) ![visitors](https://hit-badger.glitch.me/badge?page_id=bhav09.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachin-ghanteppagol-85729b142/)&nbsp; ![visitors](https://hit-badger.glitch.me/badge?page_id=bhav09.id)
 
 
 
