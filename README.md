@@ -1,5 +1,5 @@
-<img align="right" alt="GIF" src="https://gph.is/g/4A19dnQ" width="360"/>
-<iframe src="https://giphy.com/embed/GnTHlXYp08VDJllWj7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-development-javascript-GnTHlXYp08VDJllWj7">via GIPHY</a></p>
+
+<iframe align="right" alt="GIF"src="https://giphy.com/embed/GnTHlXYp08VDJllWj7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-development-javascript-GnTHlXYp08VDJllWj7">via GIPHY</a></p>
 
 ### Hi there 👋 My name is Sachin Ghanteppagol! 
 
