@@ -52,4 +52,4 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&line_height=30)
+![](https://github-readme-stats.vercel.app/api?username=Sachin-Ghanteppagol&show_icons=true&line_height=30)
