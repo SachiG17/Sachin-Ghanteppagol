@@ -1,12 +1,8 @@
-
-<iframe align="right" alt="GIF"src="https://giphy.com/embed/GnTHlXYp08VDJllWj7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-development-javascript-GnTHlXYp08VDJllWj7">via GIPHY</a></p>
-
 ### Hi there 👋 My name is Sachin Ghanteppagol! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) ![visitors](https://hit-badger.glitch.me/badge?page_id=bhav09.id)
 
-<!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -28,11 +24,9 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 🔭 I’m currently working on : Deep Learning with Pytorch.
 
-💬 Ask me about: Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 Ask me about: Python , Machine Learning , Statistics
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
-
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
 📄 Resume : 
 
