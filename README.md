@@ -11,9 +11,6 @@ I am a Machine Learning enthusiast , Pythonista!
 
 💬 Ask me about: Python , Machine Learning , Statistics
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
-
-📄 Resume : 
 
 ### Languages and Tools-
 
@@ -25,8 +22,8 @@ I am a Machine Learning enthusiast , Pythonista!
 | C | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: |
 
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
+| Pandas | Matplotlib |
+| :---: | :---: |
 
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
