@@ -15,8 +15,8 @@ I am a Machine Learning enthusiast , Pythonista!
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
-| :---: | :---: | :---: | :---: | :---: |
+| Python | Sklearn | C++ | Tkinter | Tableau | PowerBI |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 | C | SQL | Pytorch | Numpy |
