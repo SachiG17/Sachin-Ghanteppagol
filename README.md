@@ -28,4 +28,4 @@ I am a Machine Learning enthusiast , Pythonista!
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![](https://github-readme-stats.vercel.app/api?username=Sachin-Ghanteppagol&show_icons=true&line_height=30)
+![](https://github-readme-stats.vercel.app/api?username=SachiG17&show_icons=true&line_height=30)
