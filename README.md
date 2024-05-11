@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Sachin Ghanteppagol! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachin-ghanteppagol-85729b142/)&nbsp;     ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachin-Ghanteppagol.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sachin-ghanteppagol-85729b142/)&nbsp;    
 
 I am a Machine Learning enthusiast , Pythonista!
  
