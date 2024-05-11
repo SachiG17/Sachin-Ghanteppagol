@@ -17,7 +17,7 @@ with the strong history of working with high performance teams to meet or exceed
 | Framework| XPath | API Testing | Github | HP-ALM | JIRA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Test Case Planning |  |
+| Test Case Planning | Testing Strategy |
 | :---: | :---: |
 
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
